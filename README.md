@@ -115,10 +115,10 @@ This two-part structure made the dashboard useful for both executive-level portf
 ## 🖼️ Dashboard Preview
 
 ### Loan Portfolio Overview
-![Loan Portfolio Overview](./Screenshot%202026-03-28%20150426.png)
+![Loan Portfolio Overview](https://github.com/thecadMunik/risk_assessment/blob/main/images/dshboard1.png)
 
 ### Loan Status & Type Analysis
-![Loan Status & Type Analysis](./Screenshot%202026-03-28%20150454.png)
+![Loan Status & Type Analysis](https://github.com/thecadMunik/risk_assessment/blob/main/images/dshboard2.png)
 
 ## 📊 What the Dashboard Reveals
 
